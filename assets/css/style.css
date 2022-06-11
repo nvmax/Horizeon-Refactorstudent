@@ -65,25 +65,8 @@ p {
     background-position: center;
 }
 
-/***** Styles for images with in main body *****/
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-/***** SEO-ORM-SMM sections sytles *****/
+/***** content sections sytles *****/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -124,6 +107,7 @@ p {
     max-height: 200px;
 }
 
+/***** Hero section sytles *****/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -137,6 +121,22 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 /***** Benefits side bar styles *****/
